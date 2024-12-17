@@ -1,6 +1,6 @@
 # app.py
 # This is a test commit
-# i am trying GA
+# i am trying selfhosted runner
 def add(a, b):
     return a + b
 
